@@ -8,7 +8,7 @@ This project analyzes and classifies crimes in **San Francisco**, leveraging mac
 ---
 ## 📊 Dataset  
 The dataset includes **real-world crime reports from San Francisco**, categorized into different offenses such as **theft, fraud, assault, vandalism, and more**. The goal is to predict the crime category based on features like **location, time, and crime description**.  
-
+Download the training dataset here: [Train](https://www.kaggle.com/competitions/sf-crime/data)
 ---
 
 ## ⚡ Model Performance  
@@ -54,4 +54,7 @@ pip install -r requirements.txt
 ```bash
 python crime_classification.py
 ```
+---
+## 👥 Authors
+- **Prethish GA** ([📧 Email](mailto:prethish0409@gmail.com))
 ---
