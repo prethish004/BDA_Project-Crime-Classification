@@ -1,15 +1,13 @@
-# BDA_Project-Crime-Classification
----
-![image](https://github.com/user-attachments/assets/ff8ddd8d-db20-4555-bbb4-ba5e41b5523a)
 
----
-Here’s the README content formatted in GitHub Markdown:  
-
-```md
-# 🔍 Crime Classification in San Francisco 🚔  
+# 🔍 Crime Classification in San Francisco using BDA 🚔  
 
 ## 🚀 Project Overview  
 This project analyzes and classifies crimes in **San Francisco**, leveraging machine learning models to predict crime categories. We experimented with multiple models and evaluated their performance **before and after hyperparameter tuning**.  
+![image](https://github.com/user-attachments/assets/ff8ddd8d-db20-4555-bbb4-ba5e41b5523a)
+
+---
+## 📊 Dataset  
+The dataset includes **real-world crime reports from San Francisco**, categorized into different offenses such as **theft, fraud, assault, vandalism, and more**. The goal is to predict the crime category based on features like **location, time, and crime description**.  
 
 ---
 
@@ -37,10 +35,7 @@ This project analyzes and classifies crimes in **San Francisco**, leveraging mac
 
 ---
 
-## 📊 Dataset  
-The dataset includes **real-world crime reports from San Francisco**, categorized into different offenses such as **theft, fraud, assault, vandalism, and more**. The goal is to predict the crime category based on features like **location, time, and crime description**.  
 
----
 
 ## 📌 Installation & Usage  
 
@@ -59,16 +54,4 @@ pip install -r requirements.txt
 ```bash
 python crime_classification.py
 ```
-
 ---
-
-## 📢 Contribute & Feedback  
-🚀 Have ideas to improve the model? **Fork this repo** and submit a PR!  
-💬 Found an issue? Open an **issue** in the repo.  
-
-📧 **Contact:** Reach out via GitHub discussions or email.  
-
-🔥 Let's make crime prediction smarter together! 🚔  
-```
-
-This is GitHub-friendly with proper **Markdown formatting**, **emoji enhancements**, and a clean structure. 🚀 Let me know if you need any modifications! 😊
